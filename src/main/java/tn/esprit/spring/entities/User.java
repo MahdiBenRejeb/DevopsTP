@@ -43,6 +43,7 @@ public class User implements Serializable {
 		this.lastName = lastName;
 		this.dateNaissance = dateNaissance;
 		this.role = role;
+		//test
 	}
 
 
